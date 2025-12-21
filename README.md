@@ -49,7 +49,7 @@ Session State Management
 
 ```text
 SmartQuizzer/
-├── smartquizzer_streamlit.py   # Main Streamlit application
+├── app.py                     # Main Streamlit application
 ├── README.md                  # Documentation
 ├── requirements.txt           # Python dependencies
 └── .env                       # API key configuration
