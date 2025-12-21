@@ -45,51 +45,75 @@ OpenAI API
 dotenv
 
 Session State Management
+## 📁 Project Structure
 
-📁 Project Structure
+```text
 SmartQuizzer/
-│
 ├── smartquizzer_streamlit.py   # Main Streamlit application
 ├── README.md                  # Documentation
 ├── requirements.txt           # Python dependencies
 └── .env                       # API key configuration
+```
 
 ⚙️ Installation & Setup
-1️⃣ Clone Repository
+
+
+##1️⃣ Clone Repository
+
+
 git clone https://github.com/RoopaPavani/SmartQuizzer.git
 cd SmartQuizzer
 
-2️⃣ Create Virtual Environment
+ ##2️⃣ Create Virtual Environment
+
+```bash
 python -m venv venv
+```
 
+### Activate the virtual environment
 
-Activate environment:
-
-Windows
-
+**Windows**
+```bash
 venv\Scripts\activate
+```
 
-
-Mac/Linux
-
+**Mac / Linux**
+```bash
 source venv/bin/activate
+```
 
-3️⃣ Install Dependencies
+---
+
+## 3️⃣ Install Dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
-4️⃣ Environment Variables
+---
 
-Create .env file in project root:
+## 4️⃣ Environment Variables
 
+Create a `.env` file in the project root and add:
+
+```env
 OPENAI_API_KEY=your_openai_api_key
+```
 
-▶️ Run the Application
+---
+
+## ▶️ Run the Application
+
+```bash
 streamlit run smartquizzer_streamlit.py
-
+```
 
 Open in browser:
 
+```
 http://localhost:8501
+```
+
 
 🎮 How to Use
 
@@ -105,8 +129,7 @@ View score and explanations
 
 🎥 Demo Video
 
-🔗 Add your demo video link here
-(YouTube / Google Drive)
+🔗 https://drive.google.com/file/d/1xc4GlmOcQ6RsPVu0EGVEX-cpMeTheN5e/view?usp=drive_link
 
 📊 Evaluation Highlights
 
