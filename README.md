@@ -127,9 +127,6 @@ Answer quiz questions within the given time
 
 View score and explanations
 
-🎥 Demo Video
-
-🔗 https://drive.google.com/file/d/1xc4GlmOcQ6RsPVu0EGVEX-cpMeTheN5e/view?usp=drive_link
 
 📊 Evaluation Highlights
 
