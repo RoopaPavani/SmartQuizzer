@@ -1,5 +1,4 @@
-# app.py - SmartQuizzer Adaptive AI-Based Quiz Generator
-# Complete Enhanced Implementation with Updated Explanation Colors
+
 
 import streamlit as st
 import openai
