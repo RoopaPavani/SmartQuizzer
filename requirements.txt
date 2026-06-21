@@ -1,5 +1,7 @@
-
 streamlit
-python-dotenv
 openai
-streamlit-autorefresh
+PyPDF2
+python-docx
+python-dotenv
+pandas
+plotly
